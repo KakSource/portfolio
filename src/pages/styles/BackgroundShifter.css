@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+:root {
+  --colorPrimary: red;
+  --colorSecondar: blue;
+  --colorThirdiary: orange;
+}
+
+
+.BackgroundShifter {
+  height: 92vh;
+  width: 100vw;
+  font-family: "Pacifico", cursive;
+}
+
+.BackgroundShifter > div {
+  height: 95vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.BackgroundShifter > div > div {
+  display: grid;
+  height: 35vh;
+  width: 40vw;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.BackgroundShifter > div > div > h3 {
+  text-align: center;
+  font-size: 1.6rem;
+  align-self: center;
+  margin: 0;
+}
+
+.BackgroundShifter > div > div > span {
+  color: rgba(0, 0, 0, 0.6);
+  align-self: center;
+  text-align: center;
+}
+
+.BackgroundShifter > div > div > span:last-of-type {
+  font-size: 0.8em;
+}
+
+.BackgroundShifter > div > div > button {
+  border: none;
+  background-color: black;
+  color: white;
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  font-family: "Pacifico", cursive;
+}
+
+.cont_backgrounds {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  text-align: center;
+  gap: 5px;
+}
+
+.cont_backgrounds div {
+  border: 1px solid black;
+  margin: 2px;
+  visibility: visible;
+}

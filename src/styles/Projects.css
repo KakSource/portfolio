@@ -1,0 +1,21 @@
+.Projects {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    padding: 10px;
+}
+
+.Projects a {
+    border: 1px solid black;
+}
+
+.Projects a h2 {
+    text-align: center;
+    text-decoration: none;
+}
+
+.Projects a img {
+    max-width: 100%;
+}

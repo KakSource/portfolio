@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Reem+Kufi+Ink&display=swap");
+.toDoList {
+  display: flex;
+  height: 95vh;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(74, 138, 102);
+}
+
+.game {
+  height: 80vh;
+  width: 60vw;
+  border: 1px solid black;
+  display: grid;
+  font-family: "Reem Kufi Ink", sans-serif;
+}
+
+.game input {
+  width: 100%;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+}
+
+.game > div:first-child {
+  display: flex;
+  max-height: 100px;
+
+}
+
+.game > div:first-child button {
+  width: 10vw;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  background-color: green;
+  color: chartreuse;
+  border: none;
+}
+
+.game > div:first-child input {
+  padding: 5px;
+}
+
+.game h3 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.item {
+  display: grid;
+  grid-template-columns: 80% 20%;
+  border: 1px solid black;
+  height: 100%;
+  max-height: 100px;
+}
+
+.item p {
+  text-decoration: underline;
+  color: white;
+}
+
+.centered {
+  align-self: center;
+  margin: 10px;
+}
+
+.item-completed {
+  display: grid;
+  grid-template-columns: 45% 45% 10%;
+  border: 1px solid black;
+}
+
+.item-completed p {
+  text-decoration: line-through;
+}
+
+.delete {
+  border: none;
+  height: 100%;
+  background-color: rgba(255, 0, 0, 0.52);
+}
+
+.delete:hover {
+  background-color: rgb(255, 0, 0);
+}
+
+.complete {
+  border: none;
+  background-color: rgb(82, 122, 82);
+}
+
+.complete:hover {
+  background-color: rgb(12, 117, 12);
+}
+
+.detail_finished {
+  align-self: center;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+.grid-task-btns {
+  display: grid;
+  justify-content: end;
+}
+
+@container (max-width: 600px) {
+  .game {
+    width: 80vw;
+  }
+  .item {
+  }
+  .delete {
+    font-size: 0.5em;
+  }
+}
+
+@container (max-width: 400px) {
+  .game {
+    width: 95vw;
+  }
+  .game > div:first-child button {
+    font-size: 0.4em;
+    padding: 5px;
+    width: 50px;
+  }
+  .item {
+  }
+  .delete {
+    font-size: 0.3em;
+  }
+  .item_finished {
+    font-size: 0.5em;
+  }
+}

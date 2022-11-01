@@ -1,0 +1,29 @@
+.About {
+    display: grid;
+    height: 92vh;
+}
+
+.About > div {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.About > div > .inline-box {
+    display: flex;
+    justify-content: center;
+}
+
+.down-arrow {
+    align-self: center;
+    max-height: 20px;
+    margin-left: 5px;
+}
+
+.About > div > .inline-box > h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.About > div > p {
+    margin: 10px;
+}

@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Gujarati:wght@400;700;900&display=swap');
+
+
+.container {
+    height: 92vh;
+    font-family: 'Noto Serif Gujarati', serif;
+}
+
+.grid-separator {
+    display: grid;
+    height: 100%;
+    align-items: center;
+    grid-template-columns: 70% 30%;
+}
+
+.detail-info {
+    padding: 50px;
+    display: grid;
+    text-align: center;
+}
+
+.detail-info b {
+    color: rgba(255, 166, 0, 0.56);
+}
