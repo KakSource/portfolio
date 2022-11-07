@@ -6,16 +6,16 @@ let Header = () => {
     <div className="Header">
       <p className="header-Title">Kak</p>
       <div>
-        <Link className="anchor-tag" to="/">
+        <Link className="anchor-tag" to="/portfolio/">
           Inicio
         </Link>
-        <Link className="anchor-tag" to="/about">
+        <Link className="anchor-tag" to="/portfolio/about">
           Acerca
         </Link>
-        <Link className="anchor-tag" to="/projects">
+        <Link className="anchor-tag" to="/portfolio/projects">
           Proyectos
         </Link>
-        <Link className="anchor-tag" to="/contact">
+        <Link className="anchor-tag" to="/portfolio/contact">
           Contacto
         </Link>
         <img src="./imgs/menu.png" alt="menu icon"></img>
