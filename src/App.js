@@ -15,13 +15,19 @@ function App() {
     <div className="App">
       <Header />
       <Routes>
-        <Route path="/" element={<Body />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/projects" element={<Projects />} />
-        <Route path="/backgroundshifter" element={<BackgroundShifter />} />
-        <Route path="/dailyschedule" element={<DailySchedule />} />
-        <Route path="/todolist" element={<ToDoList />} />
-        <Route path="/reflexiongenerator" element={<ReflexionGenerator />} />
+        <Route path="/portfolio/" element={<Body />} />
+        <Route path="/portfolio/about" element={<About />} />
+        <Route path="/portfolio/projects" element={<Projects />} />
+        <Route
+          path="/portfolio/backgroundshifter"
+          element={<BackgroundShifter />}
+        />
+        <Route path="/portfolio/dailyschedule" element={<DailySchedule />} />
+        <Route path="/portfolio/todolist" element={<ToDoList />} />
+        <Route
+          path="/portfolio/reflexiongenerator"
+          element={<ReflexionGenerator />}
+        />
         <Route />
       </Routes>
       <Footer />
