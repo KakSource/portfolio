@@ -1,5 +1,6 @@
 import "../styles/Header.css";
 import { Link } from "react-router-dom";
+import menu_img from "../assets/imgs/menu.png";
 
 let Header = () => {
   return (
@@ -18,7 +19,7 @@ let Header = () => {
         <Link className="anchor-tag" to="/portfolio/contact">
           Contacto
         </Link>
-        <img src="./imgs/menu.png" alt="menu icon"></img>
+        <img src={menu_img} alt="menu icon"></img>
       </div>
     </div>
   );

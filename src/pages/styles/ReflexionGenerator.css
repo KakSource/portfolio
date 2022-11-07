@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&family=Neucha&display=swap');
+
 .ReflexionGenerator {
     display: flex;
     height: 92vh;
@@ -17,11 +19,21 @@
 .holder button {
     width: 100%;
     max-height: 50px;
+    font-family: 'Neucha', cursive;
+    font-size: 1.6rem;
+    background-color: green;
+    border: none;
+}
+
+.holder button:hover {
+    background-color: rgb(0, 241, 0);
+    color: rgb(96, 56, 0);
 }
   
 .holder h3 {
     text-align: center;
-    color: white;
+    color: rgb(249, 109, 1);
+    font-family: 'Chakra Petch', sans-serif;
 }
   
 .holder img {

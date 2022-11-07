@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "../styles/About.css";
+import downArrowImage from "../assets/imgs/down-arrow.png";
 
 let About = () => {
   const [displayFirstParagraph, setDisplayFirstParagraph] = useState(false);
@@ -13,7 +14,7 @@ let About = () => {
           <img
             onClick={() => setDisplayFirstParagraph((prevShown) => !prevShown)}
             className="down-arrow"
-            src="./imgs/down-arrow.png"
+            src={downArrowImage}
           ></img>
         </div>
         {displayFirstParagraph && (
@@ -39,7 +40,7 @@ let About = () => {
           <img
             onClick={() => setDisplaySecondParagraph((prevShown) => !prevShown)}
             className="down-arrow"
-            src="./imgs/down-arrow.png"
+            src={downArrowImage}
           ></img>
         </div>
         {displaySecondParagraph && (
