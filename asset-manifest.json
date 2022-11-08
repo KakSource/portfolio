@@ -1,13 +1,45 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.297e6d4a.css",
-    "main.js": "/portfolio/static/js/main.981e4827.js",
+    "main.css": "/portfolio/static/css/main.6ee569a4.css",
+    "main.js": "/portfolio/static/js/main.bd02e976.js",
+    "static/media/Youre-only-unrealistic-for-someone-who-wants-to-keep-you-on-their-level.png": "/portfolio/static/media/Youre-only-unrealistic-for-someone-who-wants-to-keep-you-on-their-level.57e91ec5cf31c8cb2e78.png",
+    "static/media/You-are-not-meant-to-live-like-the-others-you-are-meant-to-live-as-yourself.png": "/portfolio/static/media/You-are-not-meant-to-live-like-the-others-you-are-meant-to-live-as-yourself.5a3bd65b5ce74f4e1784.png",
+    "static/media/Learn-to-be-present-and-enjoy-the-moment.png": "/portfolio/static/media/Learn-to-be-present-and-enjoy-the-moment.40e727f0e906bfefecba.png",
+    "static/media/The-past-can-hurt-but-the-way-I-see-it-you-can-either-run-from-it-or-learn-from-it.png": "/portfolio/static/media/The-past-can-hurt-but-the-way-I-see-it-you-can-either-run-from-it-or-learn-from-it.9a6643ddedcf0d8ccf84.png",
+    "static/media/Nobody_is_your_friend_until_they_defend_your_name_in_your_absence.png": "/portfolio/static/media/Nobody_is_your_friend_until_they_defend_your_name_in_your_absence.e20b55a4e18fce43d8a6.png",
+    "static/media/Its-your-turn-to-meet-the-reason-why-you-never-settled.png": "/portfolio/static/media/Its-your-turn-to-meet-the-reason-why-you-never-settled.f4d4d9df27e90604e513.png",
+    "static/media/reflection-generator.png": "/portfolio/static/media/reflection-generator.f423a0449fa3b02d8965.png",
+    "static/media/You-should-feel-loved-without-feeling-like-you-are-begging-for-it.png": "/portfolio/static/media/You-should-feel-loved-without-feeling-like-you-are-begging-for-it.986ff0c4cca1770b8a4d.png",
+    "static/media/small-mind-laughing-at-reflective-mind.png": "/portfolio/static/media/small-mind-laughing-at-reflective-mind.cbacef6fbf1a6f05e7c6.png",
+    "static/media/Dont-let-your-loneliness-make-you-reconnect-with-toxic-people.png": "/portfolio/static/media/Dont-let-your-loneliness-make-you-reconnect-with-toxic-people.c19eefed710bdeb6861b.png",
+    "static/media/Toxic-people-dont-apologise-they-explain-why-they-did-it.png": "/portfolio/static/media/Toxic-people-dont-apologise-they-explain-why-they-did-it.777b77d22bccbdd5c97f.png",
+    "static/media/Those-who-know-do-not-speak-Those-who-speak-do-not-know.png": "/portfolio/static/media/Those-who-know-do-not-speak-Those-who-speak-do-not-know.05f137b644e911ee4699.png",
+    "static/media/Once-you-mature-you-realize-that-silence-is-more-powerful-than-proving-a-point.png": "/portfolio/static/media/Once-you-mature-you-realize-that-silence-is-more-powerful-than-proving-a-point.b6b79a9a750163f2f66e.png",
+    "static/media/Understand-when-someone-no-longer-positively-affects-your-life-LET-THEM-GO.png": "/portfolio/static/media/Understand-when-someone-no-longer-positively-affects-your-life-LET-THEM-GO.34923d1e6e6a4d888f7b.png",
+    "static/media/Love-didnt-hurt-you.png": "/portfolio/static/media/Love-didnt-hurt-you.87a2ef90b7b44c38c74c.png",
+    "static/media/Plants-do-own-requirements-in-order-to-grow-And-so-do-people.png": "/portfolio/static/media/Plants-do-own-requirements-in-order-to-grow-And-so-do-people.20ea5c3068b56da95e27.png",
+    "static/media/Set-limits-not-everyone-is-deserving.png": "/portfolio/static/media/Set-limits-not-everyone-is-deserving.7d94b910bf2218298dc7.png",
+    "static/media/La-mejor-manera-de-evitar-que-un-prisionero-escape.png": "/portfolio/static/media/La-mejor-manera-de-evitar-que-un-prisionero-escape.36491c41232c67162619.png",
+    "static/media/Negativity-and-dark-thoughts-are-still-part-of-growth.png": "/portfolio/static/media/Negativity-and-dark-thoughts-are-still-part-of-growth.c7b4d14d09b518b4f8dd.png",
+    "static/media/Eyes-show-what-smiles-hides.png": "/portfolio/static/media/Eyes-show-what-smiles-hides.8d70c51cd76dec8f50d7.png",
+    "static/media/the-problems-we-dont-fix-become-our-limits.png": "/portfolio/static/media/the-problems-we-dont-fix-become-our-limits.f83135779737c10b6b09.png",
+    "static/media/Discipline-is-not-about-perfection.png": "/portfolio/static/media/Discipline-is-not-about-perfection.9c3d37bb5e2066fb460c.png",
+    "static/media/success-not-ausence.png": "/portfolio/static/media/success-not-ausence.05a791e458e902bc4b96.png",
+    "static/media/the-more-you-let-go-the-higher-you-rise.png": "/portfolio/static/media/the-more-you-let-go-the-higher-you-rise.816d69978222daefdce7.png",
+    "static/media/Stop-being-available-to-unavailable-people.png": "/portfolio/static/media/Stop-being-available-to-unavailable-people.4dee04f242c5df4303bb.png",
+    "static/media/Youre-going-to-be-happy-said-life.png": "/portfolio/static/media/Youre-going-to-be-happy-said-life.9454cd7a44f867fff55b.png",
+    "static/media/No-le-digas-a-nadie lo-que-estas-haciendo-hasta-que-termines.png": "/portfolio/static/media/No-le-digas-a-nadie lo-que-estas-haciendo-hasta-que-termines.cc8f972b73c865df93fb.png",
+    "static/media/Leadership-is-not-a-license-to-do-less.png": "/portfolio/static/media/Leadership-is-not-a-license-to-do-less.2a5e01472d24f86c404f.png",
+    "static/media/github.png": "/portfolio/static/media/github.22cfdd1cba253783ce51.png",
+    "static/media/Haces-99-cosas-bien.png": "/portfolio/static/media/Haces-99-cosas-bien.521a7ad84bd8bd18f283.png",
+    "static/media/gmail.png": "/portfolio/static/media/gmail.a2f2146f929409405da0.png",
+    "static/media/linkedin.png": "/portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/portfolio/index.html",
-    "main.297e6d4a.css.map": "/portfolio/static/css/main.297e6d4a.css.map",
-    "main.981e4827.js.map": "/portfolio/static/js/main.981e4827.js.map"
+    "main.6ee569a4.css.map": "/portfolio/static/css/main.6ee569a4.css.map",
+    "main.bd02e976.js.map": "/portfolio/static/js/main.bd02e976.js.map"
   },
   "entrypoints": [
-    "static/css/main.297e6d4a.css",
-    "static/js/main.981e4827.js"
+    "static/css/main.6ee569a4.css",
+    "static/js/main.bd02e976.js"
   ]
 }
