@@ -15,6 +15,7 @@ let About = () => {
             onClick={() => setDisplayFirstParagraph((prevShown) => !prevShown)}
             className="down-arrow"
             src={downArrowImage}
+            alt="down arrow icon"
           ></img>
         </div>
         {displayFirstParagraph && (
@@ -41,6 +42,7 @@ let About = () => {
             onClick={() => setDisplaySecondParagraph((prevShown) => !prevShown)}
             className="down-arrow"
             src={downArrowImage}
+            alt="down arrow icon"
           ></img>
         </div>
         {displaySecondParagraph && (

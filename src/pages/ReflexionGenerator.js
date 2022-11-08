@@ -4,7 +4,6 @@ import { useState } from "react";
 //Images import, yes it's tedious to even read but no more time now.. Tried some solutions but doesn't seem to work..
 import small_mind_laughing_at_reflective_mind from "./assets/reflections/small-mind-laughing-at-reflective-mind.png";
 import success_not_ausence from "./assets/reflections/success-not-ausence.png";
-import youre_going_to_be_happy_said_life from "./assets/reflections/Youre-going-to-be-happy-said-life.png";
 import discipline_is_not_about_perfection from "./assets/reflections/Discipline-is-not-about-perfection.png";
 import dont_let_your_loneliness_reconnect_with_toxic_people from "./assets/reflections/Dont-let-your-loneliness-make-you-reconnect-with-toxic-people.png";
 import eyes_show_what_smile_hides from "./assets/reflections/Eyes-show-what-smiles-hides.png";
@@ -194,7 +193,7 @@ let ReflexionGenerator = () => {
         <div className="holder">
           <button onClick={() => changer()}>REFLECTION</button>
           <h3 style={{ myRandomStyleH3 }}>{title}</h3>
-          <img src={url}></img>
+          <img alt={url} src={url}></img>
         </div>
       </div>
     </>
