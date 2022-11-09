@@ -1,6 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+
+.redundantFix {
+    height: 92vh;
+}
+
 .About {
     display: grid;
-    height: 92vh;
+    padding: 15px;
+    font-family: 'Playfair Display', serif;
 }
 
 .About > div {
@@ -22,6 +29,11 @@
 .About > div > .inline-box > h2 {
     text-align: center;
     text-decoration: underline;
+}
+
+.About > div > .inline-box > h2:hover {
+    color: orange;
+    transition: all 0.1s ease-in;
 }
 
 .About > div > p {

@@ -9,6 +9,9 @@ import BackgroundShifter from "./pages/BackgroundShifter";
 import DailySchedule from "./pages/DailySchedule";
 import ToDoList from "./pages/ToDoList";
 import ReflexionGenerator from "./pages/ReflexionGenerator";
+import RandomQuotes from "./pages/RandomQuotes";
+import MusicPlayer from "./pages/MusicPlayer";
+import MemeGenerator from "./pages/MemeGenerator";
 
 function App() {
   return (
@@ -19,14 +22,31 @@ function App() {
         <Route path="/portfolio/about" element={<About />} />
         <Route path="/portfolio/projects" element={<Projects />} />
         <Route
-          path="/portfolio/backgroundshifter"
+          path="/portfolio/projects/background-shifter"
           element={<BackgroundShifter />}
         />
-        <Route path="/portfolio/dailyschedule" element={<DailySchedule />} />
-        <Route path="/portfolio/todolist" element={<ToDoList />} />
         <Route
-          path="/portfolio/reflexiongenerator"
-          element={<ReflexionGenerator />}
+          path="/portfolio/projects/daily-schedule"
+          element={<DailySchedule />}
+        />
+        <Route path="/portfolio/projects/to-do-list" element={<ToDoList />} />
+        <Route
+          path="/portfolio/projects/random-reflections"
+          element={<RandomReflections />}
+        />
+        <Route />
+        <Route
+          path="/portfolio/projects/music-player"
+          element={<MusicPlayer />}
+        />
+        <Route />
+        <Route
+          path="/portfolio/projects/random-quotes"
+          element={<RandomQuotes />}
+        />
+        <Route
+          path="/portfolio/projects/meme-generator"
+          element={<MemeGenerator />}
         />
         <Route />
       </Routes>

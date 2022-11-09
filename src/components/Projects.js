@@ -7,27 +7,45 @@ import toDoList_img from "../assets/imgs/projects/todolist.png";
 let data = [
   {
     title: "Background Shifter",
-    url: "http://localhost:3000/portfolio/backgroundshifter",
+    url: `${window.location.href}/background-shifter`,
     img: backgroundShifter_img,
-    alt: "background shifter image",
+    alt: "Background Shifter Application image",
   },
   {
     title: "Daily Schedule",
-    url: "http://localhost:3000/portfolio/dailyschedule",
+    url: `${window.location.href}/daily-schedule`,
     img: dailySchedule_img,
-    alt: "daily schedule image",
+    alt: "Daily Schedule Application image",
   },
   {
     title: "To do list",
-    url: "http://localhost:3000/portfolio/todolist",
-    img: reflectionGenerator_img,
-    alt: "reflection generator image",
+    url: `${window.location.href}/to-do-list`,
+    img: toDoList_img,
+    alt: "Reflection Generator Application image",
   },
   {
-    title: "Reflexion Generator",
-    url: "http://localhost:3000/portfolio/reflexiongenerator",
-    img: toDoList_img,
-    alt: "to do list image",
+    title: "Random Reflection Image",
+    url: `${window.location.href}/random-reflections`,
+    img: reflectionGenerator_img,
+    alt: "Random Reflection Application Image",
+  },
+  {
+    title: "Music Player (WIP)",
+    url: `${window.location.href}/music-player`,
+    img: "NONE",
+    alt: "Music Player Application image",
+  },
+  {
+    title: "Random Reflective Quotes (WIP)",
+    url: `${window.location.href}/random-quotes`,
+    img: "NONE",
+    alt: "Random Quote Application image",
+  },
+  {
+    title: "Meme Generator (WIP)",
+    url: `${window.location.href}/meme-generator`,
+    img: "NONE",
+    alt: "Meme Generator Application image",
   },
 ];
 

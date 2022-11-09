@@ -1,0 +1,35 @@
+.QuoteGenerator {
+    display: grid;
+    grid-template-rows: 30% 55%;
+    align-items: center;
+    justify-items: center;
+    height: 92vh;
+    background-color: black;
+}
+
+.language_btns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+
+.language_btns > button {
+    border: none;
+    height: 35px;
+    width: 100px;
+}
+
+.RandomQuote {
+    border: none;
+    margin: 5px;
+    width: 200px;
+    height: 50px;
+}
+
+.Quote {
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+    max-width: 80vw;
+}
+

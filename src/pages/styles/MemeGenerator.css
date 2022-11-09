@@ -1,0 +1,22 @@
+.MemeGenerator {
+    height: 92vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.MemeGenerator > div {
+    display: grid;
+}
+
+.MemeGenerator > div > div > input {
+    text-align: center;
+}
+
+.holderImg {
+   max-height: 300px;
+}
+
+.holderImg > img {
+    max-width: 100%;
+}

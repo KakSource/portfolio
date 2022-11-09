@@ -89,7 +89,7 @@ let reflections = [
     url: Learn_to_be_present_and_enjoy_the_moment,
   },
   {
-    title: "El amor no te lastimo, solo la gente que no sabe amar.",
+    title: "El amor no te lastimó, alguien que no sabe como amarte te lastimó.",
     url: Love_didnt_hurt_you,
   },
   {
@@ -112,7 +112,7 @@ let reflections = [
   },
   {
     title:
-      "Las planta tiene requerimientos para crecer, como también la gente.",
+      "Todas las plantas tiene sus propios requerimientos en orden para crecer, como también la gente.",
     url: Plants_do_own_requirements_in_order_to_grow_And_so_do_people,
   },
   {
@@ -175,7 +175,7 @@ let myRandomStyleH3 = {
   color: `rgb(0, 241, 0);`,
 };
 
-let ReflexionGenerator = () => {
+let RandomReflections = () => {
   const [title, setTitle] = useState("");
   const [url, setUrl] = useState("");
 
@@ -200,4 +200,4 @@ let ReflexionGenerator = () => {
   );
 };
 
-export default ReflexionGenerator;
+export default RandomReflections;

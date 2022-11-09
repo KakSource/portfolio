@@ -1,0 +1,28 @@
+.MusicPlayer_Component {
+    height: 92vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.MusicPlayer_Component > div {
+    border: 1px solid black;
+    height: 450px;
+    width: 500px;
+    border-radius: 5px;
+    display: grid;
+    grid-template-columns: 35% 65%;
+}
+
+.playlist {
+}
+
+.playlist > div {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.infoSong {
+    display: grid;
+    grid-template-rows: 60% 40%;
+}
