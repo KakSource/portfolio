@@ -8,7 +8,7 @@ import { Routes, Route } from "react-router-dom";
 import BackgroundShifter from "./pages/BackgroundShifter";
 import DailySchedule from "./pages/DailySchedule";
 import ToDoList from "./pages/ToDoList";
-import ReflexionGenerator from "./pages/ReflexionGenerator";
+import RandomReflection from "./pages/RandomReflection";
 import RandomQuotes from "./pages/RandomQuotes";
 import MusicPlayer from "./pages/MusicPlayer";
 import MemeGenerator from "./pages/MemeGenerator";
@@ -31,8 +31,8 @@ function App() {
         />
         <Route path="/portfolio/projects/to-do-list" element={<ToDoList />} />
         <Route
-          path="/portfolio/projects/random-reflections"
-          element={<RandomReflections />}
+          path="/portfolio/projects/random-reflection"
+          element={<RandomReflection />}
         />
         <Route />
         <Route

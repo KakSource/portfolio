@@ -25,7 +25,7 @@ let data = [
   },
   {
     title: "Random Reflection Image",
-    url: `${window.location.href}/random-reflections`,
+    url: `${window.location.href}/random-reflection`,
     img: reflectionGenerator_img,
     alt: "Random Reflection Application Image",
   },

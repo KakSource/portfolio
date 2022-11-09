@@ -175,7 +175,7 @@ let myRandomStyleH3 = {
   color: `rgb(0, 241, 0);`,
 };
 
-let RandomReflections = () => {
+let RandomReflection = () => {
   const [title, setTitle] = useState("");
   const [url, setUrl] = useState("");
 
@@ -200,4 +200,4 @@ let RandomReflections = () => {
   );
 };
 
-export default RandomReflections;
+export default RandomReflection;
