@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6ee569a4.css",
-    "main.js": "/portfolio/static/js/main.bd02e976.js",
+    "main.css": "/portfolio/static/css/main.90322dc4.css",
+    "main.js": "/portfolio/static/js/main.6f237e79.js",
     "static/media/Youre-only-unrealistic-for-someone-who-wants-to-keep-you-on-their-level.png": "/portfolio/static/media/Youre-only-unrealistic-for-someone-who-wants-to-keep-you-on-their-level.57e91ec5cf31c8cb2e78.png",
     "static/media/You-are-not-meant-to-live-like-the-others-you-are-meant-to-live-as-yourself.png": "/portfolio/static/media/You-are-not-meant-to-live-like-the-others-you-are-meant-to-live-as-yourself.5a3bd65b5ce74f4e1784.png",
     "static/media/Learn-to-be-present-and-enjoy-the-moment.png": "/portfolio/static/media/Learn-to-be-present-and-enjoy-the-moment.40e727f0e906bfefecba.png",
@@ -35,11 +35,11 @@
     "static/media/gmail.png": "/portfolio/static/media/gmail.a2f2146f929409405da0.png",
     "static/media/linkedin.png": "/portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/portfolio/index.html",
-    "main.6ee569a4.css.map": "/portfolio/static/css/main.6ee569a4.css.map",
-    "main.bd02e976.js.map": "/portfolio/static/js/main.bd02e976.js.map"
+    "main.90322dc4.css.map": "/portfolio/static/css/main.90322dc4.css.map",
+    "main.6f237e79.js.map": "/portfolio/static/js/main.6f237e79.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ee569a4.css",
-    "static/js/main.bd02e976.js"
+    "static/css/main.90322dc4.css",
+    "static/js/main.6f237e79.js"
   ]
 }
