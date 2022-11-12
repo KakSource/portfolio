@@ -1,7 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.90322dc4.css",
-    "main.js": "/portfolio/static/js/main.6f237e79.js",
+    "main.css": "/portfolio/static/css/main.0d506874.css",
+    "main.js": "/portfolio/static/js/main.74878e9f.js",
+    "static/media/touching space.wav": "/portfolio/static/media/touching space.9832a9961a7b09330371.wav",
+    "static/media/soundpastel.wav": "/portfolio/static/media/soundpastel.66fd48f3cf994257353d.wav",
+    "static/media/yeay dance.wav": "/portfolio/static/media/yeay dance.26f90395d0c8bf635522.wav",
+    "static/media/2022 - July.png": "/portfolio/static/media/2022 - July.892567692f14a251c86f.png",
     "static/media/Youre-only-unrealistic-for-someone-who-wants-to-keep-you-on-their-level.png": "/portfolio/static/media/Youre-only-unrealistic-for-someone-who-wants-to-keep-you-on-their-level.57e91ec5cf31c8cb2e78.png",
     "static/media/You-are-not-meant-to-live-like-the-others-you-are-meant-to-live-as-yourself.png": "/portfolio/static/media/You-are-not-meant-to-live-like-the-others-you-are-meant-to-live-as-yourself.5a3bd65b5ce74f4e1784.png",
     "static/media/Learn-to-be-present-and-enjoy-the-moment.png": "/portfolio/static/media/Learn-to-be-present-and-enjoy-the-moment.40e727f0e906bfefecba.png",
@@ -35,11 +39,11 @@
     "static/media/gmail.png": "/portfolio/static/media/gmail.a2f2146f929409405da0.png",
     "static/media/linkedin.png": "/portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/portfolio/index.html",
-    "main.90322dc4.css.map": "/portfolio/static/css/main.90322dc4.css.map",
-    "main.6f237e79.js.map": "/portfolio/static/js/main.6f237e79.js.map"
+    "main.0d506874.css.map": "/portfolio/static/css/main.0d506874.css.map",
+    "main.74878e9f.js.map": "/portfolio/static/js/main.74878e9f.js.map"
   },
   "entrypoints": [
-    "static/css/main.90322dc4.css",
-    "static/js/main.6f237e79.js"
+    "static/css/main.0d506874.css",
+    "static/js/main.74878e9f.js"
   ]
 }
